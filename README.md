@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things about computers!
 - 🌱 I’m currently learning coding!
 - 💞️ I’m looking to collaborate on all peopele like computers!
-- 📫 How to reach me thru my e-mail!
+- 📫 Friends! you can reach me thru my e-mail!
 
 <!---
 johnnybababu/johnnybababu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
